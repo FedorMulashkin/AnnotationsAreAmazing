@@ -1,2 +1,2 @@
 # AnnotationsAreAmazing
-Class to table via annotations and JDBC
+Class to table converter via annotations and JDBC
